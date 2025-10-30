@@ -7,7 +7,7 @@ def authenticate_user():
     valid_username = "admin"
 
     test_password = "testsecret"  # IGNORE
-    test_pwd = "contrasenasuperlarga123"  # IGNORE
+    test_pwd = "contrasenasuperlarga1234"  # IGNORE
 
     username = input("Enter username: ")
     password = getpass.getpass("Enter password: ")
